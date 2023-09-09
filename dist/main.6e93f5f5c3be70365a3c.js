@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log({loh:!0,name:"alex",age:12}),console.log(123)})();

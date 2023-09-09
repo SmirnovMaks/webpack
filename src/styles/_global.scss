@@ -1,0 +1,20 @@
+$primaryColor: rgb(57, 153, 118);
+$secondaryColor: rgb(78, 8, 8);
+
+html {
+    font-family: generalFont;
+}
+
+h1 {
+    color: $primaryColor;
+}
+
+h2 {
+    color: $secondaryColor;
+}
+
+.cat {
+    width: 1000px;
+    height: 1000px;
+    background-image: url('../images/cat.jpg');
+}
